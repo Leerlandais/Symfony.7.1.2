@@ -9,6 +9,8 @@
 /vendor/
 ###< symfony/framework-bundle ###
 
+# LES LIGNES 14-22 SONT DUPLIQUER - À SURVEILLER 
+
 ###> phpunit/phpunit ###
 /phpunit.xml
 .phpunit.result.cache
